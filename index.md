@@ -52,4 +52,4 @@ Contact: jordann.chance@gmail.com
 Galaxy Shooter is an arcade shooter inspired in classics like R-Type and Thunderforce but vertically-oriented, this is the first game i've ever created and I used Unity to make it.This game is for study purposes only.
 
 
-[Linkedin](https://www.linkedin.com/in/jordan-moreira/)
+[My LinkedIn](https://www.linkedin.com/in/jordan-moreira/)
