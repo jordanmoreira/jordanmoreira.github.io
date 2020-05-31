@@ -38,9 +38,11 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 -->
 
-**Hi, my name is Jordan and i'm an aspiring game developer who has a huge passion for video games since very young. I have worked as a .NET web developer for 3 years and now I decided that it is time to chase my dream to work with video games.
-Feel welcome to  send any questions to my email or simply to give me some suggestions, i'll answer you!
-Contact: jordann.chance@gmail.com**
+**Hi, my name is Jordan and i'm an aspiring game developer who has a huge passion for video games since very young. I have worked as a .NET web developer for 3 years and now I decided that it is time to chase my dream to work with video games.**
+
+**Feel welcome to  send any questions to my email or simply to give me some suggestions, i'll answer you!**
+
+**Contact: jordann.chance@gmail.com**
 
 ## Games I have worked on:
 [GALAXY SHOOTER](https://github.com/jordanmoreira/galaxy-shooter)
