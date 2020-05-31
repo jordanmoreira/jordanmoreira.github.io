@@ -46,6 +46,8 @@ Contact: jordann.chance@gmail.com
 
 ## Games I have worked on:
 [GALAXY SHOOTER](https://github.com/jordanmoreira/galaxy-shooter)
+
 ![Galaxy Shooter Main Menu](https://github.com/jordanmoreira/space-shooter/blob/master/Assets/_Images/rsz_galaxy_shooter_screen.png)
+
 Galaxy Shooter is an arcade shooter inspired in classics like R-Type and Thunderforce but vertically-oriented, this is the first game i've ever created and I used Unity to make it.This game is for study purposes only.
 
