@@ -42,6 +42,7 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 **Feel welcome to send any questions to my email or simply give me any suggestion, i'll answer you :D**
 
 **Contact: jordann.chance@gmail.com**
+[My LinkedIn](https://www.linkedin.com/in/jordan-moreira/)
 
 
 
@@ -51,6 +52,3 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 ![Galaxy Shooter Main Menu](https://dm2305files.storage.live.com/y4ptFzE9nA0BKhGvbXDm0wgoygSciQdXURH5maOTR-h3u6OuRCd7IEjHqftVvUJiHCFAIZn1tqZBEbTCVLu2nHmvSwROmZpCAlKfAtriecgZRKdHTNAyFxCB_Xg731uFQDWTHneIv2fYFN3ojXTH35vjTb1zQErzLuno3WP-7B5-n45bdy20yqMuJr_wZGx2eGXF35npfCn8w4xyxDVcmIWzFaAVidzAHo4-tj_uCyIuPY/galaxyshooterjordan.png?psid=1&width=1614&height=904)
 
 Galaxy Shooter is an arcade shooter inspired in classics like R-Type and Thunderforce but vertically-oriented, this is the first game i've ever created and I used Unity and C# to make it.This game is for study purposes only.
-
-
-[My LinkedIn](https://www.linkedin.com/in/jordan-moreira/)
