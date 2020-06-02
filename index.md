@@ -48,7 +48,7 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 ## Games I have worked on:
 [GALAXY SHOOTER](https://github.com/jordanmoreira/galaxy-shooter)
 
-![Galaxy Shooter Main Menu](https://scontent.fcgh37-1.fna.fbcdn.net/v/t1.0-9/101423931_1102363086793780_7030583574872981504_n.jpg?_nc_cat=106&_nc_sid=8024bb&_nc_eui2=AeGYgbzqgfgTT8M3BDK98_oXM3o7e83fCY0zejt7zd8JjS198Ul8V7-9QwjyMT1Lm4-Ty-QrJ1g3wILDm6mtal81&_nc_oc=AQliMai1h0bGiZ6QkBpkI2EaWTf0Z5tuyUE416KGYTsFnTKUSAzDYfaFs7fgATnufws&_nc_ht=scontent.fcgh37-1.fna&oh=26ce811972e05f793c3ba2e7093b0e3f&oe=5EF8F532)
+![Galaxy Shooter Main Menu](https://dm2305files.storage.live.com/y4ptFzE9nA0BKhGvbXDm0wgoygSciQdXURH5maOTR-h3u6OuRCd7IEjHqftVvUJiHCFAIZn1tqZBEbTCVLu2nHmvSwROmZpCAlKfAtriecgZRKdHTNAyFxCB_Xg731uFQDWTHneIv2fYFN3ojXTH35vjTb1zQErzLuno3WP-7B5-n45bdy20yqMuJr_wZGx2eGXF35npfCn8w4xyxDVcmIWzFaAVidzAHo4-tj_uCyIuPY/galaxyshooterjordan.png?psid=1&width=1614&height=904)
 
 Galaxy Shooter is an arcade shooter inspired in classics like R-Type and Thunderforce but vertically-oriented, this is the first game i've ever created and I used Unity and C# to make it.This game is for study purposes only.
 
