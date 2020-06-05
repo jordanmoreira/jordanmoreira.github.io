@@ -49,6 +49,6 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 ## Games I have worked on:
 [GALAXY SHOOTER](https://github.com/jordanmoreira/galaxy-shooter)
 
-![Galaxy Shooter Main Menu](https://imgur.com/PAtYATd)
+![Galaxy Shooter Main Menu](https://i.imgur.com/PAtYATd.png)
 
 Galaxy Shooter is an arcade shooter with a coop mode inspired in classics like R-Type and Thunderforce but vertically-oriented, this is my first game and I used Unity and C# to make it.It was made for study purposes only.
